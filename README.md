@@ -5,7 +5,7 @@ Welcome to the 50 Days Digital Design Challenge repository! 🚀
 
 ## Overview
 
-This repository documents my journey through a daily challenge of analog layout design. Each day, I explore a different aspect of digital circuitry, from basic components like half adders to more complex elements like multiplexers and demultiplexers. Through this challenge, I aim to sharpen my skills, deepen my understanding, and share my progress with the community.
+This repository documents my journey through a daily challenge of Digital design. Each day, I explore a different aspect of digital circuitry, from basic components like half adders to more complex elements like multiplexers and demultiplexers. Through this challenge, I aim to sharpen my skills, deepen my understanding, and share my progress with the community.
 
 ## Repository Structure
 
