@@ -1,4 +1,4 @@
-module EPG_design(
+module OPG_design(
     input [7:0] B,
     output reg P
     );
