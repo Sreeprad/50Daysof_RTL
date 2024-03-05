@@ -9,11 +9,11 @@ This repository documents my journey through a daily challenge of Digital design
 
 ## Repository Structure
 
-- `Verilog/`: Contains Verilog code for each analog layout design challenge.
-- `Schematics/`: Includes schematic files illustrating the circuit diagrams for each design.
-- `Progress/`: Documents daily updates, insights, and reflections on the challenges faced and lessons learned.
-- `Resources/`: Provides additional resources, references, and helpful materials related to analog layout design.
-- `Simulation/`:  Holds simulation files and results for verifying the functionality of each design.
+- `Verilog`: Contains Verilog code for each analog layout design challenge.
+- `Schematics`: Includes schematic files illustrating the circuit diagrams for each design.
+- `Progress`: Documents daily updates, insights, and reflections on the challenges faced and lessons learned.
+- `Resources`: Provides additional resources, references, and helpful materials related to analog layout design.
+- `Simulation`:  Holds simulation files and results for verifying the functionality of each design.
 ## Connect with Me
 
 Your feedback, suggestions, and collaboration are highly valued! Feel free to connect with me on GitHub to share your thoughts or explore potential collaborations.
