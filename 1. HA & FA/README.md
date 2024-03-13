@@ -14,14 +14,7 @@ Welcome to this comprehensive guide on Half Adders and Full Adders. This README 
 8. [Truth Table for Full Adder](#truth-table-for-full-adder)
 
 ## Introduction to Half Adder
-A Half Adder is a combinational logic circuit that performs the addition of two bits: A and B. It produces two outputs: the sum (S) and the carry (C). The truth table for a Half Adder is as follows:
-
-| A | B | S | C |
-|---|---|---|---|
-| 0 | 0 | 0 | 0 |
-| 0 | 1 | 1 | 0 |
-| 1 | 0 | 1 | 0 |
-| 1 | 1 | 0 | 1 |
+A Half Adder is a combinational logic circuit that performs the addition of two bits: A and B. It produces two outputs: the sum (S) and the carry (C). 
 
 ## Operation and Diagram (Half Adder)
 The operation of a Half Adder is simple. It performs the XOR operation on the input bits to generate the sum and performs the AND operation to generate the carry. 
@@ -31,10 +24,25 @@ The operation of a Half Adder is simple. It performs the XOR operation on the in
 The Verilog code for the Half Adder module is provided in the file `HA.v`.
 
 ## Truth Table for Half Adder
-The truth table for the Half Adder has been provided above.
+
+| A | B | S | C |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 |
 
 ## Introduction to Full Adder
-A Full Adder is a combinational logic circuit that performs the addition of three bits: A, B, and an incoming carry, Cin. It produces two outputs: the sum (S) and the carry out (Cout). The truth table for a Full Adder is as follows:
+A Full Adder is a combinational logic circuit that performs the addition of three bits: A, B, and an incoming carry, Cin. It produces two outputs: the sum (S) and the carry out (Cout). 
+
+
+## Operation and Diagram (Full Adder)
+The operation of a Full Adder involves combining two Half Adders along with an additional OR gate. 
+
+## Verilog Code for Full Adder
+The Verilog code for the Full Adder module is provided in the file `FA.v`.
+
+## Truth Table for Full Adder
 
 | A | B | Cin | S | Cout |
 |---|---|-----|---|------|
@@ -46,14 +54,5 @@ A Full Adder is a combinational logic circuit that performs the addition of thre
 | 1 | 0 | 1   | 0 | 1    |
 | 1 | 1 | 0   | 0 | 1    |
 | 1 | 1 | 1   | 1 | 1    |
-
-## Operation and Diagram (Full Adder)
-The operation of a Full Adder involves combining two Half Adders along with an additional OR gate. 
-
-## Verilog Code for Full Adder
-The Verilog code for the Full Adder module is provided in the file `FA.v`.
-
-## Truth Table for Full Adder
-The truth table for the Full Adder has been provided above.
 
 This README provides a comprehensive guide on both Half Adders and Full Adders, including their theory, operation, Verilog implementation, and examples. It's a valuable resource for understanding digital arithmetic circuits.
