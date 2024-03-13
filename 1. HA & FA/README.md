@@ -24,9 +24,8 @@ A Half Adder is a combinational logic circuit that performs the addition of two 
 | 1 | 1 | 0 | 1 |
 
 ## Operation and Diagram (Half Adder)
-The operation of a Half Adder is simple. It performs the XOR operation on the input bits to generate the sum and performs the AND operation to generate the carry. Below is a schematic diagram illustrating the operation of a Half Adder:
+The operation of a Half Adder is simple. It performs the XOR operation on the input bits to generate the sum and performs the AND operation to generate the carry. 
 
-![Half Adder Diagram](half_adder_diagram.png)
 
 ## Verilog Code for Half Adder
 The Verilog code for the Half Adder module is provided in the file `HA.v`.
