@@ -48,9 +48,7 @@ A Full Adder is a combinational logic circuit that performs the addition of thre
 | 1 | 1 | 1   | 1 | 1    |
 
 ## Operation and Diagram (Full Adder)
-The operation of a Full Adder involves combining two Half Adders along with an additional OR gate. Below is a schematic diagram illustrating the operation of a Full Adder:
-
-![Full Adder Diagram](full_adder_diagram.png)
+The operation of a Full Adder involves combining two Half Adders along with an additional OR gate. 
 
 ## Verilog Code for Full Adder
 The Verilog code for the Full Adder module is provided in the file `FA.v`.
