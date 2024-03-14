@@ -2,6 +2,7 @@ module SISO_TB;
     reg CLK, B;
     wire Q;
 
+    SISO_design uut(CLK, B, Q);
     initial begin
         CLK = 1'b0;
         forever #5 CLK = ~CLK;
