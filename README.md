@@ -49,6 +49,7 @@ This repository documents my journey through a daily challenge of Digital design
 31. SISO SHIFT REGISTER
 32. SIPO SHIFT REGISTER
 33. PISO SHIFT REGISTER
+34. PIPO SHIFT REGISTER
 
 ## Connect with Me
 
