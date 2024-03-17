@@ -4,9 +4,8 @@ module MUX2_1_design(
     input S,
     output Vout
     );
-    wire w1, w2, w3;
-    not U1(w1, S);
-    and U2(w2, D0, w1);
+    wire w2, w3;
+    and U2(w2, D0, ~S);
     and U3(w3, D1, S);
     or U4(Vout, w2, w3);
 endmodule
