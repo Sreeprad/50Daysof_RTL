@@ -51,6 +51,7 @@ This repository documents my journey through a daily challenge of Digital design
 33. PISO SHIFT REGISTER
 34. PIPO SHIFT REGISTER
 35. BARREL SHIFTER
+36. PRIORITY ENCODER
 
 ## Connect with Me
 
