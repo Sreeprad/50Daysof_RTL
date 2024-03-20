@@ -56,4 +56,6 @@ These Boolean expressions represent the logic required to detect positive and ne
 
 These Boolean expressions represent the logic required to detect positive and negative edges in the input signal using combinational logic.
 
+These Boolean expressions represent the logic required to detect positive and negative edges in the input signal using combinational logic.
+
 Feel free to refer to this document for a comprehensive understanding of edge detectors and their implementation. If you have any further questions, don't hesitate to ask!
