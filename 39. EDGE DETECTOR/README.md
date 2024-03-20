@@ -43,19 +43,5 @@ The truth tables below provide a comprehensive overview of the behavior of the e
 
 These truth tables illustrate how the edge detectors behave based on the input signal, indicating the detection of positive and negative edges.
 
-## Boolean Expressions
-The Boolean expressions for the edge detectors can be derived based on the desired operation:
-
-- **Positive Edge Detector (PE):** 
-  \[ PE = \text{SIG} \land \text{~SIG\_DLY} \]
-
-- **Negative Edge Detector (NE):** 
-  \[ NE = \text{~SIG} \land \text{SIG\_DLY} \]
-
-These Boolean expressions represent the logic required to detect positive and negative edges in the input signal using combinational logic.
-
-These Boolean expressions represent the logic required to detect positive and negative edges in the input signal using combinational logic.
-
-These Boolean expressions represent the logic required to detect positive and negative edges in the input signal using combinational logic.
 
 Feel free to refer to this document for a comprehensive understanding of edge detectors and their implementation. If you have any further questions, don't hesitate to ask!

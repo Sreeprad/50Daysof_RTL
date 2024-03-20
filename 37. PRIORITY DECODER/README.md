@@ -44,13 +44,5 @@ The truth table below provides a comprehensive overview of the behavior of the P
 
 This truth table illustrates how the binary input is decoded into a binary representation based on the lowest-index active input, indicating the highest-priority input.
 
-## Boolean Expressions
-The Boolean expressions for the output bits of the Priority Decoder can be derived from the truth table as follows:
-
-- Output bit 2 (Y2): \( Y2 = \overline{I2} \)
-- Output bit 1 (Y1): \( Y1 = \overline{I1} \)
-- Output bit 0 (Y0): \( Y0 = \overline{I0} \)
-
-These Boolean expressions represent the logic required to activate the corresponding output based on the highest-priority active input.
 
 Feel free to refer to this document for a comprehensive understanding of the Priority Decoder and its implementation in Verilog. If you have any further questions, don't hesitate to ask!

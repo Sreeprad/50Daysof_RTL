@@ -40,12 +40,4 @@ The truth table below provides a comprehensive overview of the behavior of the U
 
 This truth table illustrates how the Universal Shift Register behaves based on the control signals provided, indicating the operation to be performed.
 
-## Boolean Expressions
-The Boolean expressions for the control signals of the Universal Shift Register can be derived based on the desired operation:
-
-- Shift left (SL): \( SL = 1 \) for left shift operation, \( SL = 0 \) otherwise.
-- Shift right (SR): \( SR = 1 \) for right shift operation, \( SR = 0 \) otherwise.
-
-These Boolean expressions represent the logic required to control the shifting operation of the Universal Shift Register.
-
 Feel free to refer to this document for a comprehensive understanding of the Universal Shift Register and its implementation in Verilog. If you have any further questions, don't hesitate to ask!
