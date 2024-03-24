@@ -49,7 +49,7 @@ The Array Multiplier's theoretical and logical representation can be depicted as
 
 |------|------|------| A3 | A2 | A1 | A0 | 
 |------|------|------|----|----|----|----|
-|------|------|------| *x*| B3 | B2 | B1 | B0 |
+|------|------| *x*| B3 | B2 | B1 | B0 |
 |   0  | 0    | 0  | A3.B0 | A2.B0 | A1.B0 | A0.B0 |
 | +    | +  | +  | +  | +  | +  | +  |
 | 0    | 0  | A3.B1 | A2.B1 | A1.B1 | A0.B1 | 0  |
